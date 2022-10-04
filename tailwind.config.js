@@ -16,8 +16,8 @@ module.exports = {
         body: ["Montserrat"],
       },
       backgroundImage: {
-        mobile: "url('./images/image-product-mobile.jpg')",
-        desktop: "url('./images/image-product-desktop.jpg')",
+        mobile: "url('../src/images/image-product-mobile.jpg')",
+        desktop: "url('../src/images/image-product-desktop.jpg')",
       },
     },
   },
