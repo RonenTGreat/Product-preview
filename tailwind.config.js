@@ -14,6 +14,10 @@ module.exports = {
         heading: ["Fraunces"],
         body: ["Montserrat"],
       },
+      backgroundImage: {
+        mobile: "url('../images/image-product-mobile.jpg')",
+        desktop: "url('../images/image-product-desktop.jpg')",
+      },
     },
   },
   plugins: [],
