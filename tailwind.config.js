@@ -9,6 +9,7 @@ module.exports = {
         verydarkblue: "hsl(212, 21%, 14%)",
         grayishblue: "hsl(228, 12%, 48%)",
         white: "hsl(0, 0%, 100%)",
+        state: "hsl(158, 36%, 20%)",
       },
       fontFamily: {
         heading: ["Fraunces"],
