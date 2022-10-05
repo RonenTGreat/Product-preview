@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://productpreviewrgt.netlify.app/)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/product-preview-page-using-tailwind-css-u9J7hYEv2X)
 - Live Site URL: [Live Site](https://productpreviewrgt.netlify.app/)
 
 ## My process
